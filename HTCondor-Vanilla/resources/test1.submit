@@ -1,4 +1,4 @@
-Executable = /bin/hostname 
+Executable = C:\Windows\System32\hostname.exe
 Universe = vanilla
 output = logTest1.$(Process)
 error = logTest1.$(Process)
